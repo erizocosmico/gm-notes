@@ -1,3 +1,7 @@
+v8.0
+
+- V10 and V11 compatibility
+
 v7.24
 
 - Updated build method
